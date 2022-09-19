@@ -1087,7 +1087,7 @@ In ${clockString(new Date - user.afkTime)}
 const reactionMessage = {
                     react: {
                         text: args[0],
-                        key: { remoteJid: m.chat, fromMe: true, id: quoted.id }
+                        key: { remoteJid: m.chat, fromMe: false, id: quoted.id }
                     }
                 }
                 
