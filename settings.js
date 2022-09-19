@@ -43,7 +43,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
-global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
+global.vidmenu = fs.readFileSync("https://telegra.ph/file/1c2668a1f2cf1dd1d44e3.jpg") //gif and video menu
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -73,13 +73,13 @@ global.packname = "By : ঔৣ☬AMͥcͣoͫde27☬ঔৣ" //ur sticker watermark
 global.author = "ঔৣ☬AMͥcͣoͫde27☬ঔৣ" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://telegra.ph/file/1c2668a1f2cf1dd1d44e3.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://telegra.ph/file/1c2668a1f2cf1dd1d44e3.jpg") //ur logo pic
+global.err4r = fs.readFileSync("https://telegra.ph/file/1c2668a1f2cf1dd1d44e3.jpg") //ur error pic
+global.thumb = fs.readFileSync("https://telegra.ph/file/1c2668a1f2cf1dd1d44e3.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['6285211112701'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
