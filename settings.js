@@ -38,7 +38,7 @@ global.APIKeys = {
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -66,7 +66,7 @@ global.ownertag = '6282138037447' //ur tag number
 global.botname = '꧁ঔৣ☬AMͥcͣoͫde27☬ঔৣ꧂' //ur bot name
 global.linkz = "https://youtube.com/c/JasBiruLangit?sub_confirmation=1" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.amcode27.my.id/2022/03/membuat-feed-instagram-nyambung-dengan-canva.html" //ur website to be displayed
-global.botscript = 'https://github.com/adhebawor/AMcode27-CheemsBot-MD4' //script link
+global.botscript = 'https://github.com/Bawornibos/CheemsBot-MD4' //script link
 global.reactmoji = "🪀" //ur menu react emoji
 global.themeemoji = "🔮" //ur theme emoji
 global.packname = "By : ঔৣ☬AMͥcͣoͫde27☬ঔৣ" //ur sticker watermark packname
