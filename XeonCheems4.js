@@ -1094,12 +1094,10 @@ const reactionMessage = {
                 const timestampe = speed();
 const latensie = speed() - timestampe
                 const menulist = `┌─❖
-│「 Hallo Broo 👋 」
-└┬❖ 「 ${pushname} 」
-┌┤✑  Sehattt? 😄
-│└────────────┈ ⳹
-│
-└─「 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 」       
+│「 Hallo Broo ${pushname} 👋 」
+└┬❖↬🪀◥དAdheBaworཌ◤
+┌┤✑ 「 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 」
+│└────────────┈ ⳹    
 │𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 │𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
 │𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${global.botname}
